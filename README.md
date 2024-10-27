@@ -25,7 +25,7 @@ Node.js v14.17.6 or higher
 npm v6.14.15 or higher
 
 Installation and Setup
-1.Clone the repository: git clone https://github.com/sunilkumarojha/
+1.Clone the repository: git clone https://github.com/sunilkumarojha/Fertilizer-Fyllo
 2.Install dependencies: npm install
 3.Start the development server:npm start
 4.Access the application: Open your browser and go to http://localhost:3000.
